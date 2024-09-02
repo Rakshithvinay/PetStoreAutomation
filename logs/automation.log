@@ -1,0 +1,62 @@
+2024-09-02 17:24:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\workspaces\2024-Aug\PetStoreAutomation\testng.xml
+
+2024-09-02 17:24:11 INFO  UserTests:44 - **********Creating User********
+2024-09-02 17:24:15 INFO  UserTests:49 - **********Created User********
+2024-09-02 17:24:15 INFO  UserTests:54 - **********Reading User********
+2024-09-02 17:24:16 INFO  UserTests:59 - **********User info Displayed********
+2024-09-02 17:24:16 INFO  UserTests:67 - **********Updating User********
+2024-09-02 17:24:17 INFO  UserTests:77 - ********** User Updated ********
+2024-09-02 17:24:19 INFO  UserTests:87 - ********** Deleting User ********
+2024-09-02 17:24:20 INFO  UserTests:90 - ********** User Deleted ********
+2024-09-02 18:20:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\workspaces\2024-Aug\PetStoreAutomation\testng.xml
+
+2024-09-02 18:20:20 INFO  UserTests2:45 - **********Creating User********
+2024-09-02 18:20:24 INFO  UserTests2:50 - **********Created User********
+2024-09-02 18:20:24 INFO  UserTests2:55 - **********Reading User********
+2024-09-02 18:20:25 INFO  UserTests2:60 - **********User info Displayed********
+2024-09-02 18:20:25 INFO  UserTests2:68 - **********Updating User********
+2024-09-02 18:20:27 INFO  UserTests2:78 - ********** User Updated ********
+2024-09-02 18:20:28 INFO  UserTests2:88 - ********** Deleting User ********
+2024-09-02 18:20:29 INFO  UserTests2:91 - ********** User Deleted ********
+2024-09-02 18:32:56 INFO  UserTests:44 - **********Creating User********
+2024-09-02 18:32:58 INFO  UserTests:49 - **********Created User********
+2024-09-02 18:32:58 INFO  UserTests:54 - **********Reading User********
+2024-09-02 18:32:59 INFO  UserTests:59 - **********User info Displayed********
+2024-09-02 18:32:59 INFO  UserTests:67 - **********Updating User********
+2024-09-02 18:33:01 INFO  UserTests:77 - ********** User Updated ********
+2024-09-02 18:33:02 INFO  UserTests:87 - ********** Deleting User ********
+2024-09-02 18:33:03 INFO  UserTests:90 - ********** User Deleted ********
+2024-09-02 18:33:15 INFO  UserTests:44 - **********Creating User********
+2024-09-02 18:33:17 INFO  UserTests:49 - **********Created User********
+2024-09-02 18:33:17 INFO  UserTests:54 - **********Reading User********
+2024-09-02 18:33:18 INFO  UserTests:59 - **********User info Displayed********
+2024-09-02 18:33:18 INFO  UserTests:67 - **********Updating User********
+2024-09-02 18:33:20 INFO  UserTests:77 - ********** User Updated ********
+2024-09-02 18:33:21 INFO  UserTests:87 - ********** Deleting User ********
+2024-09-02 18:33:23 INFO  UserTests:90 - ********** User Deleted ********
+2024-09-02 18:41:49 INFO  UserTests2:45 - **********Creating User********
+2024-09-02 18:41:53 INFO  UserTests2:50 - **********Created User********
+2024-09-02 18:41:53 INFO  UserTests2:55 - **********Reading User********
+2024-09-02 18:41:55 INFO  UserTests2:60 - **********User info Displayed********
+2024-09-02 18:41:55 INFO  UserTests2:68 - **********Updating User********
+2024-09-02 18:41:56 INFO  UserTests2:78 - ********** User Updated ********
+2024-09-02 18:41:58 INFO  UserTests2:88 - ********** Deleting User ********
+2024-09-02 18:41:59 INFO  UserTests2:91 - ********** User Deleted ********
+2024-09-02 18:42:48 INFO  UserTests2:45 - **********Creating User********
+2024-09-02 18:42:51 INFO  UserTests2:50 - **********Created User********
+2024-09-02 18:42:51 INFO  UserTests2:55 - **********Reading User********
+2024-09-02 18:42:53 INFO  UserTests2:60 - **********User info Displayed********
+2024-09-02 18:42:53 INFO  UserTests2:68 - **********Updating User********
+2024-09-02 18:42:54 INFO  UserTests2:78 - ********** User Updated ********
+2024-09-02 18:42:56 INFO  UserTests2:88 - ********** Deleting User ********
+2024-09-02 18:42:57 INFO  UserTests2:91 - ********** User Deleted ********
+2024-09-02 18:44:31 INFO  UserTests2:45 - **********Creating User********
+2024-09-02 18:44:35 INFO  UserTests2:50 - **********Created User********
+2024-09-02 18:44:35 INFO  UserTests2:55 - **********Reading User********
+2024-09-02 18:44:36 INFO  UserTests2:60 - **********User info Displayed********
+2024-09-02 18:44:36 INFO  UserTests2:68 - **********Updating User********
+2024-09-02 18:44:38 INFO  UserTests2:78 - ********** User Updated ********
+2024-09-02 18:44:40 INFO  UserTests2:88 - ********** Deleting User ********
+2024-09-02 18:44:41 INFO  UserTests2:91 - ********** User Deleted ********

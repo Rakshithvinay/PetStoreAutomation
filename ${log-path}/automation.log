@@ -1,0 +1,22 @@
+2024-09-02 17:19:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\workspaces\2024-Aug\PetStoreAutomation\testng.xml
+
+2024-09-02 17:19:26 INFO  UserTests:44 - **********Creating User********
+2024-09-02 17:19:30 INFO  UserTests:49 - **********Created User********
+2024-09-02 17:19:30 INFO  UserTests:54 - **********Reading User********
+2024-09-02 17:19:31 INFO  UserTests:59 - **********User info Displayed********
+2024-09-02 17:19:31 INFO  UserTests:67 - **********Updating User********
+2024-09-02 17:19:32 INFO  UserTests:77 - ********** User Updated ********
+2024-09-02 17:19:33 INFO  UserTests:87 - ********** Deleting User ********
+2024-09-02 17:19:34 INFO  UserTests:90 - ********** User Deleted ********
+2024-09-02 17:20:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\workspaces\2024-Aug\PetStoreAutomation\testng.xml
+
+2024-09-02 17:20:33 INFO  UserTests:44 - **********Creating User********
+2024-09-02 17:20:36 INFO  UserTests:49 - **********Created User********
+2024-09-02 17:20:36 INFO  UserTests:54 - **********Reading User********
+2024-09-02 17:20:37 INFO  UserTests:59 - **********User info Displayed********
+2024-09-02 17:20:37 INFO  UserTests:67 - **********Updating User********
+2024-09-02 17:20:39 INFO  UserTests:77 - ********** User Updated ********
+2024-09-02 17:20:40 INFO  UserTests:87 - ********** Deleting User ********
+2024-09-02 17:20:41 INFO  UserTests:90 - ********** User Deleted ********
